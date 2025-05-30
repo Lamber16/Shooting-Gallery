@@ -1,0 +1,4 @@
+repository "Shooting Gallery/Shooting Gallery@3573704451989@cloud"
+  path "/"
+    br "/main"
+    co "/main"
